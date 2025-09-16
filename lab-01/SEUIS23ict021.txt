@@ -1,0 +1,2 @@
+name = bodhithitha_ilhara
+reg = SEU/IS/23/ict/021
